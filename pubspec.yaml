@@ -1,12 +1,13 @@
 name: flutter_telegram_bot
 description: "Telegram API package"
-version: 0.0.23
+version: 0.0.24
 homepage: https://github.com/mammadnihal/flutter_telegram_bot
 repository: https://github.com/mammadnihal/flutter_telegram_bot
 issue_tracker: https://github.com/mammadnihal/flutter_telegram_bot/issues
 environment:
   sdk: ^3.8.1
   flutter: ">=1.17.0"
+license: MIT
 
 dependencies:
   flutter:
