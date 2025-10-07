@@ -5,14 +5,14 @@ homepage: https://github.com/mammadnihal/flutter_telegram_bot
 repository: https://github.com/mammadnihal/flutter_telegram_bot
 issue_tracker: https://github.com/mammadnihal/flutter_telegram_bot/issues
 environment:
-  sdk: ^3.8.1
+  sdk: ">=2.19.0 <3.0.0"
   flutter: ">=1.17.0"
 license: MIT
 
 dependencies:
   flutter:
     sdk: flutter
-  dio: ^5.9.0
+  dio: ^5.8.0+1
 
 dev_dependencies:
   flutter_test:
